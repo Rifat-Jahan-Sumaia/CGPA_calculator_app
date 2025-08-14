@@ -28,7 +28,3 @@ Perfect for quickly tracking academic progress.
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cgpa-calculator.git
