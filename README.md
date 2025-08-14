@@ -16,7 +16,7 @@ Perfect for quickly tracking academic progress.
 
 ## 📷 Screenshots
 
-<img src="first.png" width="300"/> <img src="second.png" width="300"/>
+<img src="first.png" width="300" height='300'/> <img src="second.png" width="300"  height='300'/>
 
 ---
 
