@@ -15,7 +15,12 @@ Perfect for quickly tracking academic progress.
 ---
 
 ## 📷 Screenshots
-*(You can add screenshots here once available)*
+
+### Home Screen
+![Home Screen](first.png)
+
+### Add Semester Screen
+![Add Semester Screen](second.png)
 
 ---
 
