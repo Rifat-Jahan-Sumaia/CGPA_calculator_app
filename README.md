@@ -6,21 +6,26 @@ Perfect for quickly tracking academic progress.
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/Cl1S4-e7F94/maxresdefault.jpg)](https://youtube.com/shorts/Cl1S4-e7F94?si=n6sSbDvvrbEWdR69)
+
+---
+
+## 📷 Screenshots
+
+<p float="left">
+  <img src="first.png" width="300" />
+  <img src="second.png" width="300" />
+</p>
+
+---
+
 ## ✨ Features
 - 📅 Add multiple semesters dynamically
 - 📝 Enter GPA and Credit Hours for each semester
 - ⚡ Instant CGPA calculation
 - 📱 Clean and responsive UI with Material 3 design
-
----
-## 🎥 Demo Video
-
-[![Watch the video](https://youtube.com/shorts/Cl1S4-e7F94?si=Nttyzk1deGd2gQCT)
-
----
-## 📷 Screenshots
-
-<img src="first.png" width="300" /> <img src="second.png" width="300"  />
 
 ---
 
@@ -30,4 +35,3 @@ Perfect for quickly tracking academic progress.
 - **Android Studio**
 
 ---
-
