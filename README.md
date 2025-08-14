@@ -13,7 +13,11 @@ Perfect for quickly tracking academic progress.
 - 📱 Clean and responsive UI with Material 3 design
 
 ---
+## 🎥 Demo Video
 
+[![Watch the video](https://youtube.com/shorts/Cl1S4-e7F94?si=Nttyzk1deGd2gQCT)
+
+---
 ## 📷 Screenshots
 
 <img src="first.png" width="300" /> <img src="second.png" width="300"  />
