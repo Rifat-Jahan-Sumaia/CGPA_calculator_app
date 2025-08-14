@@ -23,7 +23,6 @@ Perfect for quickly tracking academic progress.
 ## 🛠️ Tech Stack
 - **Kotlin**
 - **Jetpack Compose**
-- **Material 3**
 - **Android Studio**
 
 ---
