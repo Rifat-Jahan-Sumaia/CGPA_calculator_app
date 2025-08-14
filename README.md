@@ -8,7 +8,7 @@ Perfect for quickly tracking academic progress.
 
 ## 🎥 You can check the demonstration here:
 
-[![Watch the video](https://www.youtube.com/shorts/Cl1S4-e7F94?feature=share)
+(https://www.youtube.com/shorts/Cl1S4-e7F94?feature=share)
 
 ---
 
